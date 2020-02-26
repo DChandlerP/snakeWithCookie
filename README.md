@@ -1,0 +1,2 @@
+# Snakemake with Cookiecutter
+
